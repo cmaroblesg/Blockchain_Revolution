@@ -27,7 +27,18 @@ Tapscott, D., & Tapscott, A. (2016, May 6). How the Tech Behind Bitcoin Will Cha
 
 #### For Further Interest
 * Antonopoulos, A. M. (2018). How Bitcoin Works. In Mastering Bitcoin 2nd Edition: Programming the Open Blockchain. Mastering Bitcoin. Retrieved from [https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)
-* Lisk Academy. (n.d.). How Blockchain Works. Retrieved from [https://lisk.io/academy/blockchain-basics/how-does-blockchain-work](https://lisk.io/academy/blockchain-basics/how-does-blockchain-work) 
+* Lisk Academy. (n.d.). How Blockchain Works. Retrieved from [https://lisk.io/academy/blockchain-basics/how-does-blockchain-work](https://lisk.io/academy/blockchain-basics/how-does-blockchain-work)
 
 #### For a Good Technical Explanation
 Wattenhofer, R. (2017). Distributed Ledger Technology: The Science of the Blockchain (2nd edition). Aalborg: CreateSpace Independent Publishing Platform.
+
+### Blockchain Demo
+#### Interactive Blockchain Demo
+* Brownworth, A. (2016). Blockchain Demo. Retrieved from [https://anders.com/blockchain/](https://anders.com/blockchain/)
+The landing page for this site includes two videos that illustrate how to use this interactive demo.  After viewing these videos, use the navigation bar along the top of the page to explore this demo yourself.
+
+### Review of Module 1
+* Blockgeeks. (2018). What is Blockchain Technology? A Step-by-Step Guide For Beginners. Retrieved from [https://blockgeeks.com/guides/what-is-blockchain-technology/](https://blockgeeks.com/guides/what-is-blockchain-technology/)
+
+#### For Further Interest
+* Tapscott, D., & Tapscott, A. (2018). [Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World (Updated Edition)](https://www.blockchainresearchinstitute.org/thought-leadership/).  Chapter 1 (pp. 3-26). Penguin.   
