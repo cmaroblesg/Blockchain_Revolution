@@ -10,4 +10,4 @@ If you have questions about course content, please post them in the forums to ge
 Good luck as you get started, and I hope you enjoy the course!
 
 ## Content
-* **Week 1: ** [The Second Era of the Internet](./Week1/README.md)
+* **Week 1:** [The Second Era of the Internet](./Week1/README.md)
