@@ -20,3 +20,14 @@ See [this page](https://web.hypothes.is/help/quick-start-guide/) to get started 
 ### The Internet of Information
 Tapscott, D., & Tapscott, A. (2016, May 6). How the Tech Behind Bitcoin Will Change Your Life. Time. Retrieved from [http://time.com/4320254/blockchain-tech-behind-bitcoin/](http://time.com/4320254/blockchain-tech-behind-bitcoin/)
 * [Tapscott, D., & Tapscott, A. (2016, May 6). How the Tech Behind Bitcoin Will Change Your Life Time.](./files/Tapscott_&_Tapscott_2016_How_the_Tech_Behind_Bitcoin_Will_Change_Your_Life_Time.pdf)
+
+### How Blockchain Works
+* D’Aliessi, M. (2016, June 1). How Does the Blockchain Work? – Member Feature Stories. Retrieved from [https://medium.com/s/story/how-does-the-blockchain-work-98c8cd01d2ae ](https://medium.com/s/story/how-does-the-blockchain-work-98c8cd01d2ae)
+* Savjee. (2017, November 13). How does a blockchain work - Simply Explained. Retrieved from [https://youtu.be/SSo_EIwHSd4](https://youtu.be/SSo_EIwHSd4)
+
+#### For Further Interest
+* Antonopoulos, A. M. (2018). How Bitcoin Works. In Mastering Bitcoin 2nd Edition: Programming the Open Blockchain. Mastering Bitcoin. Retrieved from [https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc)
+* Lisk Academy. (n.d.). How Blockchain Works. Retrieved from [https://lisk.io/academy/blockchain-basics/how-does-blockchain-work](https://lisk.io/academy/blockchain-basics/how-does-blockchain-work) 
+
+#### For a Good Technical Explanation
+Wattenhofer, R. (2017). Distributed Ledger Technology: The Science of the Blockchain (2nd edition). Aalborg: CreateSpace Independent Publishing Platform.
