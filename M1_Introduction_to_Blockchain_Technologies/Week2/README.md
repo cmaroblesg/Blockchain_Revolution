@@ -26,3 +26,17 @@ We believe that the next era of the digital economy can be shaped around a set o
 ### Principle 3: Value as Incentive
 * Barrera, C. (2018, August 22). Blockchain Incentive Structures: What they are and why they matter. Retrieved from [https://medium.com/prysmeconomics/blockchain-incentives-101-what-they-are-and-why-they-matter-5127afb56aeb](https://medium.com/prysmeconomics/blockchain-incentives-101-what-they-are-and-why-they-matter-5127afb56aeb)
 * Verbin, E. (2018, March 16). Behavioral Crypto-Economics: The challenge and promise of blockchain incentive design. Retrieved from [https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175)
+
+### Principle 4: Security
+* Computerphile. (2014, July 22). Public Key Cryptography. Retrieved from [https://youtu.be/GSIDS_lvRv4](https://youtu.be/GSIDS_lvRv4)
+* Computerphile. (2017, April 11). Hashing Algorithms and Security - Computerphile. Retrieved from [https://youtu.be/DMtFhACPnTY](https://youtu.be/DMtFhACPnTY)
+* Orcutt, M. (2018, April 25). How secure is blockchain really? Retrieved from [https://www.technologyreview.com/s/610836/how-secure-is-blockchain-really/](https://www.technologyreview.com/s/610836/how-secure-is-blockchain-really/)
+* Antonopoulos, A. (2018, September 18). Bitcoin Q&A: Is quantum computing a threat? Retrieved from [https://youtu.be/wlzJyp3Qm7s](https://youtu.be/wlzJyp3Qm7s)
+
+### Principle 5: Privacy
+* Lee, S. (2018, July). Privacy Revolution: How Blockchain Is Reshaping Our Economy. Retrieved from [https://www.forbes.com/sites/shermanlee/2018/07/31/privacy-revolution-how-blockchain-is-reshaping-our-economy/](https://www.forbes.com/sites/shermanlee/2018/07/31/privacy-revolution-how-blockchain-is-reshaping-our-economy/)
+
+### Principle 6: Rights Preserved
+* Heap, I., & Tapscott, D. (2016, September). Blockchain Could Be Music’s Next Disruptor. Retrieved September 7, 2018, from [http://fortune.com/2016/09/22/blockchain-music-disruption/](http://fortune.com/2016/09/22/blockchain-music-disruption/)
+* [O’Dair, M. (2017). How Blockchain is Transforming the Creative Industries: Copyright and Rights Management in the Second Era of the Internet (BRI Big Idea Whitepaper). Blockchain Research Institute.](./files/O'Dair_Copyright_and_IP_v6D.pdf)
+* Takahashi, R. (2017, August). How can creative industries benefit from blockchain? Retrieved from [https://www.mckinsey.com/industries/media-and-entertainment/our-insights/how-can-creative-industries-benefit-from-blockchain](https://www.mckinsey.com/industries/media-and-entertainment/our-insights/how-can-creative-industries-benefit-from-blockchain)
