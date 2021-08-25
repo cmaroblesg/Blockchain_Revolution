@@ -40,3 +40,9 @@ We believe that the next era of the digital economy can be shaped around a set o
 * Heap, I., & Tapscott, D. (2016, September). Blockchain Could Be Music’s Next Disruptor. Retrieved September 7, 2018, from [http://fortune.com/2016/09/22/blockchain-music-disruption/](http://fortune.com/2016/09/22/blockchain-music-disruption/)
 * [O’Dair, M. (2017). How Blockchain is Transforming the Creative Industries: Copyright and Rights Management in the Second Era of the Internet (BRI Big Idea Whitepaper). Blockchain Research Institute.](./files/O'Dair_Copyright_and_IP_v6D.pdf)
 * Takahashi, R. (2017, August). How can creative industries benefit from blockchain? Retrieved from [https://www.mckinsey.com/industries/media-and-entertainment/our-insights/how-can-creative-industries-benefit-from-blockchain](https://www.mckinsey.com/industries/media-and-entertainment/our-insights/how-can-creative-industries-benefit-from-blockchain)
+
+### Principle 7: Inclusion
+* [Robinson, R. W. (2018). Distributed and Collaborative Marketplaces: Blockchain Serving the Unbanked (BRI Big Idea Whitepaper). Blockchain Research Institute.](./files/Robinson_Distributed_and_Collaborative_Marketplaces_Blockchain_Research_Institute.pdf)
+
+### Review of Module 2
+* Tapscott, D., & Tapscott, A. (2018). [Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World (Updated Edition)](https://www.blockchainresearchinstitute.org/thought-leadership/). Chapter 2
