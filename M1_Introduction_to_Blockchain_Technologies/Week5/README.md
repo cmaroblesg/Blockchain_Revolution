@@ -24,3 +24,7 @@ Like every revolutionary technology, the blockchain has its upside and its downs
 ### Governments Will Stifle or Twist It
 * [Telpner, J. (2018, May). The Lion, The Unicorn, and The Crown: Striking a Balance Between Regulation and Blockchain Innovation (Big Idea White Paper). Blockchain Research Institute.](./files/Telpner_Regulation.pdf)
 * [Tapscott, D. (2018, August). 2018 Blockchain Regulation Roundtable: Addressing the Regulatory Challenges of Disruptive Innovation. Summary of Proceedings. Blockchain Research Institute.](./files/2018_Blockchain_Regulation_Roundtable.pdf)
+
+### Powerful Incumbents of the Old Paradigm Will Usurp It
+* CBInsights (2018, December 12). How Blockchain Could Disrupt Banking. Retrieved from [https://www.cbinsights.com/research/blockchain-disrupting-banking](https://www.cbinsights.com/research/blockchain-disrupting-banking)
+* Higgins, S. (2014, July 14). 8 Million Vericoin Hack Prompts Hard Fork to Recover Funds. Retrieved from [https://www.coindesk.com/bitcoin-protected-vericoin-stolen-mintpal-wallet-breach](https://www.coindesk.com/bitcoin-protected-vericoin-stolen-mintpal-wallet-breach)
