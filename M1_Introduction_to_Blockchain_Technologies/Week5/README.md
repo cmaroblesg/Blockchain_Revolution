@@ -28,3 +28,7 @@ Like every revolutionary technology, the blockchain has its upside and its downs
 ### Powerful Incumbents of the Old Paradigm Will Usurp It
 * CBInsights (2018, December 12). How Blockchain Could Disrupt Banking. Retrieved from [https://www.cbinsights.com/research/blockchain-disrupting-banking](https://www.cbinsights.com/research/blockchain-disrupting-banking)
 * Higgins, S. (2014, July 14). 8 Million Vericoin Hack Prompts Hard Fork to Recover Funds. Retrieved from [https://www.coindesk.com/bitcoin-protected-vericoin-stolen-mintpal-wallet-breach](https://www.coindesk.com/bitcoin-protected-vericoin-stolen-mintpal-wallet-breach)
+
+### The Incentives are Inadequate
+* Pickering, J (2017). Bitcoin is surging towards a serious mining problem. Retrieved from [http://uk.businessinsider.com/bitcoin-surging-towards-a-serious-mining-problem-why-finance-2017-12](http://uk.businessinsider.com/bitcoin-surging-towards-a-serious-mining-problem-why-finance-2017-12)
+* S, J. (2018, May 5). Blockchain: How a 51% attack works (double spend attack). Retrieved from [https://medium.com/coinmonks/what-is-a-51-attack-or-double-spend-attack-aa108db63474](https://medium.com/coinmonks/what-is-a-51-attack-or-double-spend-attack-aa108db63474)
