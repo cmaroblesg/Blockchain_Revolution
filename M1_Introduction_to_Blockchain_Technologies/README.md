@@ -12,6 +12,6 @@ Good luck as you get started, and I hope you enjoy the course!
 ## Content
 * **Week 1:** [The Second Era of the Internet](./Week1/README.md)
 * **Week 2:** [Blockchain Design Principles](./Week2/README.md)
-* **Week 3:** [](./Week3/README.md)
-* **Week 4:** [](./Week4/README.md)
-* **Week 5:** [](./Week5/README.md)
+* **Week 3:** [Public and Private Ledgers](./Week3/README.md)
+* **Week 4:** [The Blockchain Revolution](./Week4/README.md)
+* **Week 5:** [Blockchain Implementation Challenges](./Week5/README.md)
