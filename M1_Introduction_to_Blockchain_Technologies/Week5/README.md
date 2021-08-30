@@ -32,3 +32,25 @@ Like every revolutionary technology, the blockchain has its upside and its downs
 ### The Incentives are Inadequate
 * Pickering, J (2017). Bitcoin is surging towards a serious mining problem. Retrieved from [http://uk.businessinsider.com/bitcoin-surging-towards-a-serious-mining-problem-why-finance-2017-12](http://uk.businessinsider.com/bitcoin-surging-towards-a-serious-mining-problem-why-finance-2017-12)
 * S, J. (2018, May 5). Blockchain: How a 51% attack works (double spend attack). Retrieved from [https://medium.com/coinmonks/what-is-a-51-attack-or-double-spend-attack-aa108db63474](https://medium.com/coinmonks/what-is-a-51-attack-or-double-spend-attack-aa108db63474)
+
+### Blockchain is a Job Killer
+* Anslow, L. (2016, May 16). Robots have been about to take all the jobs for more than 200 years. Retrieved from [https://timeline.com/robots-have-been-about-to-take-all-the-jobs-for-more-than-200-years-5c9c08a2f41d](https://timeline.com/robots-have-been-about-to-take-all-the-jobs-for-more-than-200-years-5c9c08a2f41d)
+* Casey, M (2018). Blockchain will make today’s accountants obsolete. Retrieved from [https://www.marketwatch.com/story/blockchain-will-make-todays-accountants-and-many-wall-street-jobs-obsolete-2018-02-28](https://www.marketwatch.com/story/blockchain-will-make-todays-accountants-and-many-wall-street-jobs-obsolete-2018-02-28)
+
+### Governing the Protocols
+* [De Filippi, P., & McMullen, G. (2018, June). Multiple Layers of Blockchain Governance. In Governance of Blockchain Systems: Governance of and by Distributed Infrastructure (pp. 16-20). COALA + Blockchain Research Institute.](./files/Governance-Blockchain-Research_Institute.pdf)
+
+### Distributed Autonomous Agents
+* Buterin, V. (2014, May 6). DAOs, DACs, DAs and More: An Incomplete Terminology Guide. Retrieved from [https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
+* Greenberg, A. (2015, July 21). Hackers Remotely Kill a Jeep on the Highway—With Me in It. Wired. Retrieved from [https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)
+
+### Privacy
+* Ceglowski, M. (2014, February). Our Comrade the Electron. Presented at the Webstock, Wellington, New Zealand. Retrieved from [https://vimeo.com/92522645#t=1250s](https://vimeo.com/92522645#t=1250s)
+* Tapscott, A. (2019, January 30). Can blockchain give us back our privacy? Financial Post. Retrieved from [https://business.financialpost.com/technology/can-blockchain-give-us-back-our-privacy](https://business.financialpost.com/technology/can-blockchain-give-us-back-our-privacy)
+
+### Criminals Will Use It
+* Bearman, J. (2015, May 23). Silk Road: The Untold Story. Wired. Retrieved from [https://www.wired.com/2015/05/silk-road-untold-story/](https://www.wired.com/2015/05/silk-road-untold-story/)
+* Haun, K. (2016, October). How the US Government is Using Blockchain to Fight Fraud. Presented at the TEDx San Francisco, San Francisco, CA. Retrieved from [https://youtu.be/507wn9VcSAE](https://youtu.be/507wn9VcSAE)
+
+### Blockchain Implementation Challenges
+* Tapscott, D., & Tapscott, A. (2018). Overcoming Showstoppers: Ten Implementation Challenges. [In Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World (Updated Edition)](Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World (Updated Edition)) (pp. 253-277). Penguin.
