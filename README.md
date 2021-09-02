@@ -10,4 +10,5 @@ The Specialization is taught by Don Tapscott and Alex Tapscott, globally-recogni
 Additionally, you will gain access to ground-breaking research from the Blockchain Research Institute as well as the  Blockchain Case Commons—a crowdsourced collection of blockchain applications and use-cases spanning multiple industries. Upon completion of this Specialization, you will produce a Blockchain Opportunity Analysis, in which you identify and evaluate a promising application of blockchain technology in your own industry.
 
 ## Content
-* [Introduction to Blockchain Technologies](./M1_Introduction_to_Blockchain_Technologies)
+* [Introduction to Blockchain Technologies](./M1_Introduction_to_Blockchain_Technologies/README.md)
+* [Transacting on the Blockchain](./M2_Transacting_on_the_Blockchain/README.md)
