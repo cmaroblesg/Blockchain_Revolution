@@ -53,4 +53,4 @@ Like every revolutionary technology, the blockchain has its upside and its downs
 * Haun, K. (2016, October). How the US Government is Using Blockchain to Fight Fraud. Presented at the TEDx San Francisco, San Francisco, CA. Retrieved from [https://youtu.be/507wn9VcSAE](https://youtu.be/507wn9VcSAE)
 
 ### Blockchain Implementation Challenges
-* Tapscott, D., & Tapscott, A. (2018). Overcoming Showstoppers: Ten Implementation Challenges. [In Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World (Updated Edition)](Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World (Updated Edition)) (pp. 253-277). Penguin.
+* Tapscott, D., & Tapscott, A. (2018). Overcoming Showstoppers: Ten Implementation Challenges. [In Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World (Updated Edition)](https://www.blockchainresearchinstitute.org/thought-leadership/) (pp. 253-277). Penguin.
