@@ -21,3 +21,6 @@ See [this page](https://web.hypothes.is/help/quick-start-guide/) to get started 
 
 ### Transaction Costs and the Structure of the Firm
 * Coase, R. H. (1937). The Nature of the Firm. Economica, New Series, 4(16), 386–405. Retrieved from [https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0335.1937.tb00002.x](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0335.1937.tb00002.x)
+
+### Opportunities for Blockchain
+* Carson, B., Romanelli, G., Walsh, P., & Zhumaev, A. (June 2018). Blockchain Beyond the Hype: What is the Strategic Business Value? Retrieved from [https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value](https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value)
