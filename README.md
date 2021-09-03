@@ -12,4 +12,4 @@ Additionally, you will gain access to ground-breaking research from the Blockcha
 ## Content
 * [Introduction to Blockchain Technologies](./M1_Introduction_to_Blockchain_Technologies/README.md)
 * [Transacting on the Blockchain](./M2_Transacting_on_the_Blockchain/README.md)
-* [Blockchain and Business: Applications and Implications](./M3_Blockchain_and_Business_Applications_and_Implictions/README.md)
+* [Blockchain and Business: Applications and Implications](./M3_Blockchain_and_Business_Applications_and_Implications/README.md)
