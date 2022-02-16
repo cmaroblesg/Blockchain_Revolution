@@ -29,4 +29,6 @@ There are countless opportunities for blockchain to disrupt or displace traditio
 
 ### Patents and Blockchain Innovation
 * [Isaacson, T. M. (2018, January). Patents and Blockchain Innovation: Strategic Approaches to Intellectual Property (BRI Big Idea Whitepaper). Blockchain Research Institute.](./files/Isaacson_Patents_and_Blockchain_Innovation_Blockchain_Research_Institute.pdf)
-* H
+
+### Payments, Attribution, and Licensing
+* [O'Dair, M. (2017, November). How Blockchain is Transforming the Creative Industries: Copyright and Rights Management in the Second Era of the Internet (BRI Big Idea Whitepaper). Blockchain Research Institute.](./files/ODair_Copyright_and_IP_v6D.pdf)
