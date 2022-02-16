@@ -28,4 +28,5 @@ There are countless opportunities for blockchain to disrupt or displace traditio
 * Schiller, B. (2018, February 5). On This Blockchain-Based Version Of Airbnb, There’s No Middleman. Retrieved from [https://www.fastcompany.com/40524021/on-this-blockchain-based-version-of-airbnb-theres-no-middleman](https://www.fastcompany.com/40524021/on-this-blockchain-based-version-of-airbnb-theres-no-middleman)
 
 ### Patents and Blockchain Innovation
-* [Isaacson, T. M. (2018, January). Patents and Blockchain Innovation: Strategic Approaches to Intellectual Property (BRI Big Idea Whitepaper). Blockchain Research Institute.](./files/Isaacson_Patents and Blockchain Innovation_Blockchain Research Institute.pdf)
+* [Isaacson, T. M. (2018, January). Patents and Blockchain Innovation: Strategic Approaches to Intellectual Property (BRI Big Idea Whitepaper). Blockchain Research Institute.](./files/Isaacson_Patents_and_Blockchain_Innovation_Blockchain_Research_Institute.pdf)
+* H
