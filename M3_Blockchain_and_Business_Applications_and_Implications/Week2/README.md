@@ -32,3 +32,6 @@ There are countless opportunities for blockchain to disrupt or displace traditio
 
 ### Payments, Attribution, and Licensing
 * [O'Dair, M. (2017, November). How Blockchain is Transforming the Creative Industries: Copyright and Rights Management in the Second Era of the Internet (BRI Big Idea Whitepaper). Blockchain Research Institute.](./files/ODair_Copyright_and_IP_v6D.pdf)
+
+### Distributed Ownership
+* Mustatea, K. (2018, January 31). Meet Plantoid: Blockchain Art With A Life Of Its Own. Forbes. Retrieved from:  [https://www.forbes.com/sites/katmustatea/2018/01/31/meet-plantoid-blockchain-art-with-a-life-of-its-own/](https://www.forbes.com/sites/katmustatea/2018/01/31/meet-plantoid-blockchain-art-with-a-life-of-its-own/)
