@@ -47,14 +47,26 @@ Any ideas that are not well-suited to blockchain should be eliminated, and the m
 
 * Mulligan, C., Rangaswami, J., Warren, S., & Zhu Scott, J. (2018, April 23). These 11 questions will help you decide if blockchain is right for your business. World Economic Forum. Retrieved from [https://www.weforum.org/agenda/2018/04/questions-blockchain-toolkit-right-for-business/](https://www.weforum.org/agenda/2018/04/questions-blockchain-toolkit-right-for-business/)
 
-
 ### Decision Matrix
 Use the following decision matrix template to select the most promising idea on which to focus your final project.  Your decision matrix should include at least five (5) relevant "Factors."  
 
-[Decision Matrix Template.xlsx](./files/Decision_Matrix_Template.xlsx)
+* [Decision Matrix Template.xlsx](./files/Decision_Matrix_Template.xlsx)
 
 When you have finished tabulating the scores, highlight your "winning" idea.  
 
 If the idea you have chosen to pursue for your final project is not the idea that received the highest score, then add some text to explain your choice.
 
 You will be asked to share your completed decision matrix as part of this week's peer-review assignment.
+
+### Statement of Benefit
+A statement of benefit explains how your idea will improve the lives of your target customers/audience. Instead of focusing on the specific features of your idea, a statement of benefit focuses on what your customers stand to gain as a result of adopting your solution. From the customer’s point of view, your statement of benefit should answer, “What’s in it for me?”  The most compelling benefits include financial or emotional returns (e.g. peace of mind).
+
+A statement of benefit is written in the future tense, at a time when the need or problem you identified (i.e. in your statement of need) has been resolved.  
+
+A statement of benefit should be:
+* Concise (1-2 sentences)
+* Measurable
+* Realistic
+* Customer-oriented
+
+As part of this week’s assignment, you will be asked to provide a statement of benefit for your chosen idea.
