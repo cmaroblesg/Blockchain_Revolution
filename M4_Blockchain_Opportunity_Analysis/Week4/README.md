@@ -33,6 +33,7 @@ Download the following business model canvas template:  [https://commons.wikimed
 ![Business Model Canvas](./files/Business_Model_Canvas.png)
 
 * [Business Model Canvas PPTX](./files/Business_Model_Canvas.pptx)
+
 As part of this week’s assignment, you will be asked to submit a photo, scan, or screenshot of your completed business model canvas for your project.
 
 #### Recommended Readings
