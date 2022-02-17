@@ -29,7 +29,8 @@ Please watch the following video for an overview of the various elements of a bu
 The sources listed under “Recommended Readings” provide further elaboration on the components of a business model canvas.
 
 **Instructions**\
-Download the following business model canvas template:  [https://commons.wikimedia.org/wiki/File:Business_Model_Canvas.png](https://commons.wikimedia.org/wiki/File:Business_Model_Canvas.png)\
+Download the following business model canvas template:  [https://commons.wikimedia.org/wiki/File:Business_Model_Canvas.png](https://commons.wikimedia.org/wiki/File:Business_Model_Canvas.png)
+![Business Model Canvas](./files/Business_Model_Canvas.png)
 As part of this week’s assignment, you will be asked to submit a photo, scan, or screenshot of your completed business model canvas for your project.
 
 #### Recommended Readings
