@@ -28,7 +28,7 @@ A business model design template can facilitate the process of designing and des
 Please watch the following video for an overview of the various elements of a business model canvas:  [https://www.youtube.com/watch?v=QoAOzMTLP5s](https://www.youtube.com/watch?v=QoAOzMTLP5s)\
 The sources listed under “Recommended Readings” provide further elaboration on the components of a business model canvas.
 
-**Instructions**
+**Instructions**\
 Download the following business model canvas template:  [https://commons.wikimedia.org/wiki/File:Business_Model_Canvas.png](https://commons.wikimedia.org/wiki/File:Business_Model_Canvas.png)\
 As part of this week’s assignment, you will be asked to submit a photo, scan, or screenshot of your completed business model canvas for your project.
 
