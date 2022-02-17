@@ -31,6 +31,8 @@ The sources listed under “Recommended Readings” provide further elaboration 
 **Instructions**\
 Download the following business model canvas template:  [https://commons.wikimedia.org/wiki/File:Business_Model_Canvas.png](https://commons.wikimedia.org/wiki/File:Business_Model_Canvas.png)
 ![Business Model Canvas](./files/Business_Model_Canvas.png)
+
+* [Business Model Canvas PPTX](./files/Business_Model_Canvas.pptx)
 As part of this week’s assignment, you will be asked to submit a photo, scan, or screenshot of your completed business model canvas for your project.
 
 #### Recommended Readings
